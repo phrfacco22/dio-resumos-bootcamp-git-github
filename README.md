@@ -14,7 +14,7 @@ Repositórios para armazenar resumos sobre Git e Github do curso Versionamento d
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no Repositório local | [Resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-2024-fundamentos-de-ia-para-devs&utm_source=engagement&utm_medium=email&utm_campaign=santander-2024-fundamentos-de-ia-para-devs&utm_term=bootcamp-users&utm_content=daily-study-plan-next-activity-cta) |
+| Gravando alterações no Repositório local | [Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-2024-fundamentos-de-ia-para-devs&utm_source=engagement&utm_medium=email&utm_campaign=santander-2024-fundamentos-de-ia-para-devs&utm_term=bootcamp-users&utm_content=daily-study-plan-next-activity-cta) |
 
 
 ```
